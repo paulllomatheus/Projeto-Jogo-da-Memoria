@@ -1,4 +1,5 @@
 <h1>Projeto Jogo da Memória Rick and Morty</h1>
+<img src="https://github.com/paulllomatheus/Projeto-Jogo-da-Memoria/blob/master/img/logo.png?raw=true" alt="logo"/>
 <br>
 <br>
 
@@ -11,6 +12,11 @@
   </ul>
 <br>
 
-<img src="https://github.com/paulllomatheus/Projeto-Jogo-da-Memoria/blob/master/img/logo.png?raw=true" alt="logo"/>
+<h3>Imagens do Projeto</h3>
+
+<img src="https://github.com/paulllomatheus/Projeto-Jogo-da-Memoria/blob/master/img/memory-game-login.png?raw=true" alt="login"/>
+<img src="https://github.com/paulllomatheus/Projeto-Jogo-da-Memoria/blob/master/img/memory-game.png?raw=true" alt="game"/>
+<img src="https://github.com/paulllomatheus/Projeto-Jogo-da-Memoria/blob/master/img/memory-game-end.png?raw=true" alt="end-game"/>
+
 
 
